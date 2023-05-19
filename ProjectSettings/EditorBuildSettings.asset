@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 7c7cf5f61ccd50f4f84f33ab2b7e2a92
+  - enabled: 1
+    path: Assets/Scenes/Chapter00.unity
+    guid: c86fc98b3b1274646b17be35911702bd
+  - enabled: 1
+    path: Assets/Scenes/Chapter01.unity
+    guid: 53bf24d351596884aaebb8346475d751
+  - enabled: 1
+    path: Assets/Scenes/Chapter02.unity
+    guid: 9a613e79fc0cc554f93b9b223eb37eee
+  - enabled: 1
+    path: Assets/Scenes/Chapter03.unity
+    guid: 6bd482aed6aa861498450fc020c1ea7d
+  - enabled: 1
+    path: Assets/Scenes/Chapter04.unity
+    guid: df5a279c17bb69e4ebd8edf85d05cc46
+  - enabled: 1
+    path: Assets/Scenes/Chapter05.unity
+    guid: 7b8a30eea4f40104bba9da483206b620
+  - enabled: 1
+    path: Assets/Scenes/Chapter06.unity
+    guid: 0c4c4e545a024e2408c134c2ef7e0dbb
+  - enabled: 1
+    path: Assets/Scenes/Chapter07A.unity
+    guid: ce47bec0a4ae7a7418657016df2a7146
+  - enabled: 1
+    path: Assets/Scenes/Chapter07B.unity
+    guid: b452d7c7faaa0b94faf1be913042bbed
+  - enabled: 1
+    path: Assets/Scenes/Chapter00end.unity
+    guid: 302ae7c10257dd748b91e9032a66537d
+  - enabled: 1
+    path: Assets/Scenes/Chapter01end.unity
+    guid: 116ebaa1e40dc7644a9e31cc7bcab317
+  - enabled: 1
+    path: Assets/Scenes/Chapter02end.unity
+    guid: 7ae1fb774fd869a4bbd5ef65a2debef9
+  - enabled: 1
+    path: Assets/Scenes/Chapter03end.unity
+    guid: 9f50f608238cf804798f71f049f92201
+  - enabled: 1
+    path: Assets/Scenes/Chapter04end.unity
+    guid: 94adb2f0084c804458be4adb8d66922b
+  - enabled: 1
+    path: Assets/Scenes/Chapter05end.unity
+    guid: fbf92932baa1e8943836731c269afed2
+  - enabled: 1
+    path: Assets/Scenes/Chapter06enda.unity
+    guid: b91ee8c920bc0ff4dbea02df6c6dc69b
+  - enabled: 1
+    path: Assets/Scenes/Chapter06endb.unity
+    guid: eacbe7c1d9f62e64b9e109d768666c42
+  - enabled: 1
+    path: Assets/Scenes/Chapter07Aend.unity
+    guid: 527caf9ac0ea59d4fabe4a5fd0b5a2a7
+  - enabled: 1
+    path: Assets/Scenes/Chapter07Bend.unity
+    guid: 579ce3894178fae4a9add3d1984349bf
+  - enabled: 1
+    path: Assets/Scenes/ChapterBonus.unity
+    guid: 655e65b574c10e44d9da2eaeb779e804
+  m_configObjects: {}
